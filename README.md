@@ -1,4 +1,4 @@
-# Hi there, I'm Jesse - aka Brock 👋 
+### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>I'm Burak- aka Brock 👋 
 
 <h3>About Me:</h3>
 
@@ -17,16 +17,8 @@
 
 
 
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/buraktrkylmzz#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/buraktrkylmzz#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/burak-turkyilmaz-ba00a6154#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/burak-turkyilmaz-ba00a6154#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/buraktrkylmzz#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/buraktrkylmzz#gh-dark-mode-only)
-
+[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=buraktrkylmzz)
+[![Linkedin:Burak](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/burak-turkyilmaz-ba00a6154)
 
 
 
@@ -47,6 +39,11 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
+
+
+
+
+
 
 
 
