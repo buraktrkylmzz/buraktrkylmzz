@@ -2,11 +2,11 @@
 
 <h3>About Me:</h3>
 
-- 🔭 I’m currently working on **a React Project**
+- 🔭 I’m currently working on **Data Analyst Bootcamp**
 
 - 🌱 I’m currently learning everything 🤣
 
-- 🥅 2022 Goals: Learn more about Data Science
+- 🥅 2023 Goals: Learn more about Data Science
 
 - 💬 Ask me about **anything, I would love to help**
 
