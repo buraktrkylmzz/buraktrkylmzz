@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 
-- 🥅 2023 Goals: Learn more about Data Science
+- 🥅 2024 Goals: Learn more about Data Science
 
 - 💬 Ask me about **anything, I would love to help**
 
